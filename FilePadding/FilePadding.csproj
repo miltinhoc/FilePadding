@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{BDC937D8-9F53-4B8D-8C59-D155FE6ACDC8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ExecutablePadding</RootNamespace>
-    <AssemblyName>ExecutablePadding</AssemblyName>
+    <RootNamespace>FilePadding</RootNamespace>
+    <AssemblyName>FilePadding</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
